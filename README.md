@@ -1,7 +1,7 @@
 # Duck Duck Goose (FizzBuzz)
 Duck Duck Goose is a classroom game meant for a large group of people. ☺\
 You may remember this from kindergarten, but we’re going to change the rules a bit (a lot) here.\
-The first person would say “1”.\ 
+The first person would say “1”.\
 The second would say “2”.\
 All the way to the last person.\
 Sounds easy, right? Well, let’s make it a little harder.\
